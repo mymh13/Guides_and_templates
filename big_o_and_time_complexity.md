@@ -141,7 +141,8 @@ O beskriver algoritmens växttakt, medan n är inputens storlek.
 Ju högre Big-O-komplexitet, desto mer ineffektiv är algoritmen när n växer.  
 Visualiseringen med grafer hjälper dig att jämföra hur olika algoritmer presterar med ökande input.  
 
-## Ring buffer (circular buffer)
+# Ring buffer (circular buffer)
+
 ### Ringbuffert eller cirkulär buffert på barbar-språk
 
 En ringbuffert (eller cirkulär buffert) är en datastruktur med fast storlek som "wrappar runt" sig själv när den når slutet. Den används ofta för att buffra dataflöden eller implementera köer där storleken är begränsad.
